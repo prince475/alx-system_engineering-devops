@@ -10,4 +10,5 @@ file 13-print_float- a script that prints a number with two decimal places, foll
 file 13-print_float- a script that prints a number with two decimal places, followed by a new line <br />
 File 2-path- contains a script to add /action to the PATH <br />
 File 1-hello_you- contains a script that prints hello user where user is the current Linux user <br />
+file 3-paths- contains a script that counts number of directories in the PATH <br />
 >>>>>>> d55a3aebfe3ba273c8f213bb09ad65634395cfd5
